@@ -46,9 +46,7 @@
     <div class="link">
         <h3 class="title-sidebar"><i class="layui-icon">&#xe64c;</i>友情链接<a style="float: right;color: #666;" href="#">申请</a></h3>
         <div>
-            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.echo.so" title='宁采陈个人博客0' target="_blank">宁采陈博客0</a>
-            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.echo.so" title='宁采陈个人博客1' target="_blank">宁采陈博客1</a>
-            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.echo.so" title='宁采陈个人博客2' target="_blank">宁采陈博客2</a>
+            <a class="layui-btn layui-btn-xs layui-btn-primary" href="https://www.wjcat.com" title='在线问卷调查网站' target="_blank">问卷喵</a>
         </div>
     </div>
 </div>
