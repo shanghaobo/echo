@@ -55,7 +55,7 @@ echo $commentClass;
                 <div class="t-w">
                 <div class="t-u"><img height="120" src="<?php $this->options->themeUrl('img/blog.jpg'); ?>"></div>
                 <div class="t-t">
-                    <h1>宁采陈<span><i class="layui-icon">&#xe635;</i>全栈工程师</span></h1>
+                    <h1>秦羽<span><i class="layui-icon">&#xe635;</i>全栈工程师</span></h1>
                     <div class="t-d layui-hide-xs">
                         <span class="typed"></span>
                     </div>

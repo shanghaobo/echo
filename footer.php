@@ -11,5 +11,15 @@
 </div>
 
 <?php $this->footer(); ?>
+
+<script type="text/javascript" src="https://cdn.bootcss.com/highlight.js/9.15.6/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script type="text/javascript">
+$(document).on('pjax:complete', function() {
+    document.querySelectorAll('pre code').forEach((block) => {
+    hljs.highlightBlock(block);
+    });
+});
+</script>
 </body>
 </html>

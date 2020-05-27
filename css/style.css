@@ -75,9 +75,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 pre,code {
+    font-family: Consolas;
+}
+/*
+pre,code {
     background: #F3F3F3;
     font-family: Menlo,Monaco,Consolas,"Lucida Console","Courier New",monospace;
-    font-size: .92857em;
+    font-size: 1em;
 }
 
 code {
@@ -97,6 +101,7 @@ pre code {
     padding: 3px;
     color: #444;
 }
+*/
 
 blockquote {
     margin: 1em 0;
@@ -974,3 +979,4 @@ textarea {
 .text ul li {
     list-style: disc;
 }
+
