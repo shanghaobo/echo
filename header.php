@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="<?php $this->options->themeUrl('css/style.css'); ?>?t=<?php echo time(); ?>">
     <script src="<?php $this->options->themeUrl('layui/layui.js'); ?>"></script>
     <script src="<?php $this->options->themeUrl('js/main.js'); ?>"></script>
-    <link href="https://cdn.bootcss.com/highlight.js/9.15.6/styles/atom-one-dark.min.css" rel="stylesheet">
+    <link href="https://cdn.bootcss.com/highlight.js/9.15.6/styles/github.min.css" rel="stylesheet">
 </head>
 <body>
 <!--[if lt IE 8]>
