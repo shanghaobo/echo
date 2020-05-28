@@ -2,7 +2,7 @@
 
 一套基于layui框架的Typecho主题Echo
 
-原博客：www.echo.so
+原作者博客：www.echo.so
 
 演示地址：https://www.qinyushop.com/
 
@@ -10,3 +10,4 @@
 ## 优化记录
 - 修改了字体样式
 - 增加了代码高亮
+- 增加了百度统计
