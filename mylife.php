@@ -51,21 +51,6 @@ echo $commentClass;
             </span>
         </div>
         <div class="layui-col-md9 layui-col-lg9">
-            <div class="about-life">
-                <div class="t-w">
-                <div class="t-u"><img height="120" src="<?php $this->options->themeUrl('img/blog.jpg'); ?>"></div>
-                <div class="t-t">
-                    <h1>秦羽<span><i class="layui-icon">&#xe635;</i>全栈工程师</span></h1>
-                    <div class="t-d layui-hide-xs">
-                        <span class="typed"></span>
-                    </div>
-                    <div class="t-i">
-                        <a class="layui-btn layui-btn-radius layui-btn-sm" href="/about.html"> 关于我</a>
-                        <a class="layui-btn layui-btn-radius layui-btn-sm" href="/guestbook.html"> 留言</a>
-                    </div>
-                </div>
-                </div>
-            </div>
             <div class="title-life">
                 <h3><i class="layui-icon">&#xe6af;</i> 我的动态</h3>
                 <span> <?php $this->commentsNum('%d'); ?> 条动态，<?php get_post_view($this); ?>次观望</span>
